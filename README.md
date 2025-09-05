@@ -29,22 +29,22 @@ Each lab is documented in its own repository with a detailed case study and step
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **SIEM & Log Analysis** | Microsoft Sentinel, Splunk, Elastic Stack, KQL, SPL, Log Ingestion & Parsing |
+| **SIEM & Log Analysis** | Splunk, SPL, Log Ingestion & Parsing |
 | **Network Security** | Wireshark (Packet Analysis), Suricata (IDS/IPS), Zeek, TCP/IP, DNS, HTTP/S |
-| **Endpoint Security** | Microsoft Defender for Endpoint, Sysmon, Velociraptor, Windows Event Logs |
-| **Automation & Scripting** | Python, PowerShell, Bash |
-| **Incident Response** | TheHive (Case Management), Shuffle (SOAR), NIST Framework |
+| **Endpoint Security** | Microsoft Defender for Endpoint, Sysmon, Windows Event Logs |
+| **Command-Line & Investigation** | Bash, PowerShell, Windows Command-Line (cmd) |
+| **Incident Response** | NIST Framework |
 | **Threat Intelligence** | VirusTotal, AbuseIPDB, MITRE ATT&CK Framework |
 
 ---
 
 ## 📚 Currently Learning & Working On  
 
-- Expanding my **SIEM use cases** with custom detection rules in Splunk & Sentinel.  
-- Practicing **incident response playbooks** with TheHive & Shuffle SOAR.  
+- Expanding my **SIEM use cases** with custom detection rules in Splunk but also learn KQL for Sentinel and be able to use both spl and kql.  
 - Deepening knowledge of **Windows internals** for better log analysis.  
-- Exploring **cloud security** (Azure AD logs, identity attacks, cloud threat hunting).  
-- Studying **malware analysis basics** to understand adversary tradecraft.  
+- Studying Sigma rules  
+- Studying **malware analysis** to understand adversary tradecraft.
+- To learn: Python for scripting and automation  
 
 ---
 
