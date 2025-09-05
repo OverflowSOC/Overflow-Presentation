@@ -21,7 +21,7 @@ Each lab is documented in its own repository with a detailed case study and step
 - [Lab: Impossible Travel & Unfamiliar Sign-In](https://github.com/OverflowSOC/OverflowSOC--Lab-Impossible-Travel-Unfamiliar-Sign-In)  
 - [Lab: Email Analysis](https://github.com/OverflowSOC/Email-Analysis)  
 
-➡️ More labs coming soon as I continue building out my SOC Analyst portfolio (20+ planned).  
+➡️ More labs coming soon as I continue building out my SOC Analyst portfolio and uploading past projects online (15+ planned).  
 
 ---
 
