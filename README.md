@@ -51,6 +51,6 @@ Each lab is documented in its own repository with a detailed case study and step
 ## 🎓 Certifications  
 
 <div>
-  <a href="[https://www.linkedin.com/in/florentin-cheng-b9511872/overlay/1752420615542/single-media-viewer/?profileId=ACoAAA9SuaEBP5hWNmtOTFeBAbRhNH077DjMvoE]"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/florentin-cheng-b9511872/overlay/1714157153309/single-media-viewer/?profileId=ACoAAA9SuaEBP5hWNmtOTFeBAbRhNH077DjMvoE]"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/florentin-cheng-b9511872/overlay/1752420615542/single-media-viewer/?profileId=ACoAAA9SuaEBP5hWNmtOTFeBAbRhNH077DjMvoE"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/florentin-cheng-b9511872/overlay/1714157153309/single-media-viewer/?profileId=ACoAAA9SuaEBP5hWNmtOTFeBAbRhNH077DjMvoE"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 </div>
