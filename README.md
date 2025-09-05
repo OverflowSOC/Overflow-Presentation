@@ -30,11 +30,14 @@ Each lab is documented in its own repository with a detailed case study and step
 | Category | Technologies & Skills |
 | :--- | :--- |
 | **SIEM & Log Analysis** | Splunk, SPL, Log Ingestion & Parsing |
-| **Network Security** | Wireshark (Packet Analysis), Suricata (IDS/IPS), Zeek, TCP/IP, DNS, HTTP/S |
+| **Network Security** | Wireshark (Packet Analysis), Suricata (IDS/IPS), Zeek, TCP/IP |
 | **Endpoint Security** | Microsoft Defender for Endpoint, Sysmon, Windows Event Logs |
 | **Command-Line & Investigation** | Bash, PowerShell, Windows Command-Line (cmd) |
 | **Incident Response** | NIST Framework |
 | **Threat Intelligence** | VirusTotal, AbuseIPDB, MITRE ATT&CK Framework |
+| **Email Security & Analysis** | Phishing Email Investigation, Header Analysis, URL/Attachment Inspection, IOC Extraction |
+| **Malware Analysis (Basic)** | Static & Dynamic Analysis, Sandbox Analysis, Behavioral Indicators, Hashing, Detection of Malicious Scripts |
+
 
 ---
 
