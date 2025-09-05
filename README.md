@@ -14,12 +14,12 @@ My goal is to apply my analytical mindset and dedication to a **Tier 1 SOC Analy
 
 Each lab is documented in its own repository with a detailed case study and step-by-step write-up.  
 
-- [Lab: MITRE ATT&CK – Exfiltration](LINK_TO_REPO)  
-- [Lab: MITRE ATT&CK – Lateral Movement](LINK_TO_REPO)  
-- [Lab: MITRE ATT&CK – Discovery](LINK_TO_REPO)  
-- [Lab: Account Activity Investigation](LINK_TO_REPO)  
-- [Lab: Impossible Travel & Unfamiliar Sign-In](LINK_TO_REPO)  
-- [Lab: Email Analysis](LINK_TO_REPO)  
+- [Lab: MITRE ATT&CK – Exfiltration](https://github.com/OverflowSOC/-Lab-MITRE-ATT-CK---Exfiltration)  
+- [Lab: MITRE ATT&CK – Lateral Movement](https://github.com/OverflowSOC/-Lab-MITRE-ATT-CK---Lateral-Movement)
+- [Lab: MITRE ATT&CK – Discovery](https://github.com/OverflowSOC/LAB-MITRE-ATT-CK---Discovery)  
+- [Lab: Account Activity Investigation](https://github.com/OverflowSOC/Lab-Account-Activity)  
+- [Lab: Impossible Travel & Unfamiliar Sign-In](https://github.com/OverflowSOC/OverflowSOC--Lab-Impossible-Travel-Unfamiliar-Sign-In)  
+- [Lab: Email Analysis](https://github.com/OverflowSOC/Email-Analysis)  
 
 ➡️ More labs coming soon as I continue building out my SOC Analyst portfolio (20+ planned).  
 
