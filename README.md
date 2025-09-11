@@ -19,7 +19,8 @@ Each lab is documented in its own repository with a detailed case study and step
 - [Lab: MITRE ATT&CK – Discovery](https://github.com/OverflowSOC/LAB-MITRE-ATT-CK---Discovery)  
 - [Lab: Account Activity Investigation](https://github.com/OverflowSOC/Lab-Account-Activity)  
 - [Lab: Impossible Travel & Unfamiliar Sign-In](https://github.com/OverflowSOC/OverflowSOC--Lab-Impossible-Travel-Unfamiliar-Sign-In)  
-- [Lab: Email Analysis](https://github.com/OverflowSOC/Email-Analysis)  
+- [Lab: Email Analysis](https://github.com/OverflowSOC/Email-Analysis)
+- [Lab: Zeek & Suricata](https://github.com/OverflowSOC/OverflowSOC--Lab-Zeek-Suricata/blob/main/README.md)
 
 ➡️ More labs coming soon as I continue building out my SOC Analyst portfolio and uploading past projects online (15+ planned).  
 
