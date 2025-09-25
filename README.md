@@ -23,6 +23,8 @@ Each lab is documented in its own repository with a detailed case study and step
 - [Lab: Zeek & Suricata](https://github.com/OverflowSOC/OverflowSOC--Lab-Zeek-Suricata/blob/main/README.md)
 - [Lab: Malicious TLS Investigation](https://github.com/OverflowSOC/-Lab-Malicious-TLS-Investigation/edit/main/README.md)
 
+Useful ressources:  [Links](https://start.me/p/ogPj8k/ressources)
+
 
 ➡️ More labs coming soon as I continue building out my SOC Analyst portfolio and uploading past projects online (15+ planned).  
 
@@ -60,8 +62,5 @@ Each lab is documented in its own repository with a detailed case study and step
   <a href="https://www.linkedin.com/in/florentin-cheng-b9511872/overlay/1752420615542/single-media-viewer/?profileId=ACoAAA9SuaEBP5hWNmtOTFeBAbRhNH077DjMvoE"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/florentin-cheng-b9511872/overlay/1714157153309/single-media-viewer/?profileId=ACoAAA9SuaEBP5hWNmtOTFeBAbRhNH077DjMvoE"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
-  ## Ressources 
-  
-[ Ressources links](  https://start.me/p/ogPj8k/nouvelle-page)
 
 </div>
