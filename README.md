@@ -4,7 +4,7 @@
 
 ### Cyber Defense / SOC Analyst  
 
-After a successful 10+ year career in luxury retail management, where I honed skills in process optimization, risk management, and leading/mentoring teams, I have made a deliberate pivot into cybersecurity. Driven by a passion for technology and the need for a new challenge, I’ve spent the last year immersing myself in cyber defense principles, completing hands-on labs, and earning my **CompTIA Security+** and **Google Cybersecurity** certifications.  
+After a successful 10+ year career in luxury retail management, where I honed skills in process optimization, risk management, and leading/mentoring teams, I have made a deliberate pivot into cybersecurity. Driven by a passion for technology and the need for a new challenge, I’ve spent the last two years immersing myself in cyber defense principles, completing hands-on labs, and earning my **CompTIA Security+** and **Google Cybersecurity** certifications.  
 
 My goal is to apply my analytical mindset and dedication to a **Tier 1 SOC Analyst role**.  
 
